@@ -1,0 +1,22 @@
+Assignment # 2
+Deadline 18 Nov 2022
+Q.1: (Palindromes)  A  palindrome  is  a  sequence  of  characters  that  reads  the 
+same backward as forward. For example, each of the following five-digit integers 
+is a palindrome: 12321, 55555, 45554 and 11611. Write an application that reads 
+in a five-digit integer and determines whether it’s a palindrome. If the number is 
+not five digits long, display an error message and allow the user to enter a new 
+value.
+Q.2: (Salary  Calculator)  Develop  a  Java  application  that  determines  the  gross 
+pay for each of three employees. The company pays straight time for the first 40 
+hours worked by each employee and time and a half for all hours worked in excess 
+of  40.  You’re  given  a  list  of  the  employees,  their  number  of  hours  worked  last 
+week and their hourly rates. Your program should input this information for each 
+employee,  then  determine  and  display  the  employee’s  gross  pay.  Use  class 
+Scanner to input the data.
+Q.3: The replace() method searches a string for a specified character, and returns 
+a new string where the specified character(s) are replaced. The synntax of the 
+replace method is as under 
+Syntax
+public String replace(char searchChar, char newChar)
+Now make a java program and use the replace function. Take a string “ Waheed” 
+and replace the characters “W and D” with “N”
